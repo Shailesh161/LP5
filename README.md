@@ -9,5 +9,5 @@ DB_
 
 
 
-g++ file-name.cpp -o file-name.exe -fopenmp
-./file-name.exe
+#g++ file-name.cpp -o file-name.exe -fopenmp 
+#./file-name.exe
